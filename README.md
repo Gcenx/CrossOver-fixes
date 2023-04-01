@@ -9,6 +9,6 @@ Heres a quick fix for macOS Ventura 13.3 until CW pushes a new update.
 - extract the archive
 - copy/paste these files into
 > CrossOver.app/Contents/SharedSupport/CrossOver/bin
-(replace when prompted)
+- (replace when prompted)
 
 CrossOver should now run like normal
