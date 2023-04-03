@@ -1,7 +1,7 @@
 # CrossOver-fixes
 
 
-Heres a quick fix for macOS Ventura 13.3 until CW pushes a new update.
+Heres a quick fix for macOS Ventura 13.3 until CodeWeaver provide a new release.
 
 - Download the attached archive
 - Open Terminal and run the following command
