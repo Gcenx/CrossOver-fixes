@@ -13,10 +13,13 @@ Heres a quick fix for macOS Ventura 13.3 until CW pushes a new update.
 
 CrossOver should now run like normal
 
+<br>
+
 # Disclaimer
-While this change gets CrossOver functioning again modifying CrossOver isn't supported by CodeWeavers.\
-They've already imported the exact same fixes into there nightly builds and a release should land shortly.
+While the provided fix gets CrossOver functioning again modifying CrossOver isn't supported by CodeWeavers.
+
+CodeWeavers have imported the exact same fixes into there nightly builds and a release should land shortly.
 
 <br>
 
-The _only_ reason I've decided to provide a fix for this is downgrading Apple Silicon systems can be rather complicated.
+The _only_ reason I've decided to provide a public fix is downgrading Apple Silicon systems can be rather complicated.
