@@ -1,4 +1,8 @@
-# CrossOver-fixes
+# Please update to CrossOver-22.1.1
+As CodeWeavers have provided an official update please use that instead.
+
+
+## CrossOver-fixes
 
 
 Heres a quick fix for macOS Ventura 13.3 until CodeWeaver provide a new release.
