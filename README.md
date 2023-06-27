@@ -1,17 +1,13 @@
-# Please update to CrossOver-22.1.1
-As CodeWeavers have provided an official update please use that instead.
-
-
 ## CrossOver-fixes
 
 
-Heres a quick fix for macOS Ventura 13.3 until CodeWeaver provide a new release.
+Heres a quick fix for macOS Sonoma 14 until CodeWeaver provide a new release.
 
 - Download the attached archive
 - Open Terminal and run the following command
 > xattr -drs com.apple.quarantine ~/Downloads
 - extract the archive
-- copy/paste these files into
+- copy/paste wine64-preloader into
 > CrossOver.app/Contents/SharedSupport/CrossOver/bin
 - (replace when prompted)
 
